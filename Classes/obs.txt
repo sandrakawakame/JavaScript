@@ -1,0 +1,5 @@
+Criando inter-relação entre classes com javaCsript
+
+
+Material de referencia:
+https://www.youtube.com/watch?v=qwaF0zdq8Gc&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=37
