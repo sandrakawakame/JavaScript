@@ -1,0 +1,20 @@
+API Fetch - Requisições e respostas vindas do servidor do lado do backend.
+
+a função fetch facilita bastante trabalhar com requisições e manupular as respostas das requisições.
+
+É muito utilizado no react e em outras frameworks de java script.
+
+Portanto, ao ver utilizado o fetch emalgum projeto, saiba que é para manipular as requisições.
+
+Desvantagem ao utilizar o fetch
+Suporte para navegadores antigos.
+
+Link com informações de compatibilidade da função com as versões de navegadores
+
+https://developer.mozilla.org/pt-BR/docs/Web/API/WindowOrWorkerGlobalScope/fetch
+
+Referência da aula
+https://www.youtube.com/watch?v=IuzZojitOec&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=38
+
+
+
